@@ -1,0 +1,15 @@
+# ide/code editor
+.vs/
+.vscode/
+
+# binaries
+bin/
+bin-obj/
+
+# gen project files
+*.sln
+*.vcxproj*
+*.mk
+*.make
+/Makefile
+**/Makefile
